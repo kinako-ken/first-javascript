@@ -1,2 +1,2 @@
 # first-javascript
-Coding Javascript for the first time
+Coding Javascript for the first time. Finally, lol
